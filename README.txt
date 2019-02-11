@@ -1,3 +1,5 @@
+Basic Experimentation with Simplest Backprogation Algorithm.
+
 RUN smoke_test.py to understand how to run faiyaz_backprop
 
 Experiments: 
